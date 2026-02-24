@@ -1,33 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Netiflix Clone</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 </head>
+
 <body>
-    <header>
-            <nav>
-                <div class="logo">
-                    <img src="assets/logo.png" alt="Netflix Logo">
-                </div>
-                <button>Idioma</button>
-                <button>entrar</button>    
-            </nav>
-        </header>
-    <main>
+    <header class="header">
+        <nav class="header-nav">
+            <div class="logo">
+                <h1 class="logo2">NETFLIX</h1>
+            </div>
+            <div class="btn-header">
+                <button class="idioma">Idioma</button>
+                <button class="entrar">Entrar</button>
+            </div>
+        </nav>
+    </header>
+    <main class="main">
         <section class="hero">
             <div class="hero-content">
-                <h1>Filmes, séries e muito mais. Sem limites.</h1>
-                <h2>A partir de R$ 20,90. Cancele quando quiser.</h2>
+                <h1>Filmes, séries e muito</h1> 
+                <h1>mais. Sem limites.</h1>
+                <h3>A partir de R$ 20,90. Cancele quando quiser.</h3>
             </div>
             <div class="hero-content2">
                 <p>Quer assistir? Informe seu email para criar ou reiniciar sua assinatura.</p>
-                <input type="email" placeholder="Email" style="padding:8px; margin-bottom:8px; width: 250px; max-width: 90%; display: block;" required>
-                <button>Vamos lá ></button>
+                <div class="email">
+                    <input class="email-input" type="email" placeholder="Email" required>
+                    <button class="btn-acao">Vamos lá ></button>
+                </div>
             </div>
         </section>
     </main>
 </body>
+
 </html>
