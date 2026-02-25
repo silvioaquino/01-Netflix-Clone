@@ -1,23 +1,20 @@
 🚦 [01-Netflix-Clone]
 https://link-para-imagem-capa.png
 
-🚧 EM TRÂNSITO - Projeto desenvolvido durante minha jornada de transição para desenvolvimento web
+🚧 EM TRÂNSITO - 1º Projeto desenvolvido durante minha jornada de transição para desenvolvimento web
 
 📋 Sobre o Projeto
-[Descrição completa do projeto - 3 a 5 linhas explicando o que faz, para que serve e qual problema resolve]
+É um clone do site Netflix para treinar as habilidades em HTML e CSS
 
-🎯 Objetivo: [objetivo principal do projeto]
+🎯 Objetivo: Treinar as habilidades aprendidas durante o curso.
 
-👨‍💻 Contexto: Desenvolvido durante a [Fase X - Nome da Fase] do meu plano de estudos @dev.em.transito
+👨‍💻 Contexto: Desenvolvido durante a 1ª fase do meu plano de estudos @dev.em.transito
 
 ## 🛠️ Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-
-**Principais conceitos aplicados:**
-- Responsividade com Flexbox/Grid
 
 Ferramentas:
 
@@ -29,29 +26,15 @@ Git & GitHub
 
 ✨ Funcionalidades
 ✅ Implementadas
-Funcionalidade 1 - [breve descrição]
-
-Funcionalidade 2 - [breve descrição]
-
-Funcionalidade 3 - [breve descrição]
+Funcionalidade 1 - Pagina simples em HTML e CSS para treinar as habilidades.
 
 🚧 Em Desenvolvimento
-Funcionalidade 4 - [descrição]
-
-Funcionalidade 5 - [descrição]
+Funcionalidade 2 - Será implementado o JavaScript para interatividade.
 
 🔮 Futuras Melhorias
-Melhoria 1
-
-Melhoria 2
+Melhoria 1 - Melhoria no HTML e CSS para ficar mais fiel ao site Original.
 
 🎨 Layout / Screenshots
-Versão Desktop
-https://link-print-desktop
-
-Versão Mobile
-https://link-print-mobile
-
 Demonstração
 https://link-gif-demonstracao (opcional)
 
@@ -66,16 +49,14 @@ Navegador web moderno
 Passo a Passo
 bash
 # Clone o repositório
-git clone https://github.com/dev.em.transito/[nome-do-repositorio].git
+git clone https://github.com/silvioaquino/01-Netflix-Clone.git
 
 # Entre no diretório
 cd [nome-do-repositorio]
 
 # Instale as dependências (se aplicável)
-npm install
 
 # Execute o projeto (se aplicável)
-npm start
 Para projetos front-end simples
 Basta abrir o arquivo index.html no navegador.
 
@@ -89,7 +70,7 @@ Basta abrir o arquivo index.html no navegador.
 📚 O que Aprendi
 Neste projeto, desenvolvi as seguintes habilidades:
 
-💡 [Habilidade/Conceito 1]
+💡 Html semantico, aprendendo css estruturado.
 
 💡 [Habilidade/Conceito 2]
 
